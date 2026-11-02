@@ -1,5 +1,5 @@
 {
-  "digest": "d08f6ab247b9c4ce4b933d42c28514f08db31893cf36b2d3877d0cf6ec52116e",
+  "digest": "10febe739dbcece803692f2f49c7af9d3def688b05801a1a2abafecb143317b9",
   "snapshot": {
     "items": [
       {
@@ -29,6 +29,10 @@
       {
         "title": "Calendario lezioni online del 30 ottobre 2026",
         "url": "https://www.unifg.it/sites/default/files/2026-10/tfa-sostegno-2026-lezioni-online-30ottobre.pdf"
+      },
+      {
+        "title": "Calendario lezioni dal 6 all'8 novembre 2026",
+        "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-calendario-02nov.pdf"
       }
     ],
     "text": [

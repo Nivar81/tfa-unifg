@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-02T11:20:30.467530+00:00",
+  "checked_at": "2026-11-02T21:45:32.374998+00:00",
   "last_change": "Rilevata una modifica ai riferimenti del calendario",
   "items": [
     {
@@ -29,6 +29,10 @@
     {
       "title": "Calendario lezioni online del 30 ottobre 2026",
       "url": "https://www.unifg.it/sites/default/files/2026-10/tfa-sostegno-2026-lezioni-online-30ottobre.pdf"
+    },
+    {
+      "title": "Calendario lezioni dal 6 all'8 novembre 2026",
+      "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-calendario-02nov.pdf"
     }
   ]
 }

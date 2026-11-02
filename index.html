@@ -9,33 +9,63 @@
   <meta name="apple-mobile-web-app-title" content="TFA UniFG">
   <link rel="manifest" href="./manifest.webmanifest">
   <link rel="apple-touch-icon" href="./icon-192.png">
-  <link rel="stylesheet" href="./style.css">
+  <link rel="stylesheet" href="./style.css?v=2">
   <title>TFA UniFG</title>
 </head>
 <body>
   <main class="shell">
     <header>
       <div class="mark">TFA</div>
-      <div><p class="eyebrow">UNIVERSITÀ DI FOGGIA</p><h1>TFA UniFG</h1><p class="sub">Calendari delle lezioni · A.A. 2025/2026</p></div>
+      <div>
+        <p class="eyebrow">UNIVERSITÀ DI FOGGIA</p>
+        <h1>TFA UniFG</h1>
+        <p class="sub">Calendari delle lezioni · A.A. 2025/2026</p>
+      </div>
     </header>
-    <section class="status">
-      <span class="dot"></span>
-      <div><strong>Monitoraggio automatico</strong><p id="last-check">Stato del controllo non ancora disponibile.</p></div>
+
+    <section class="status card">
+      <div class="status-head">
+        <span class="dot" id="status-dot"></span>
+        <div>
+          <strong id="status-title">Verifica del monitoraggio</strong>
+          <p id="last-check">Caricamento dello stato…</p>
+        </div>
+      </div>
+      <p class="muted" id="status-detail">Il controllo viene eseguito automaticamente da GitHub ogni 6 ore.</p>
+      <button class="secondary" id="refresh" type="button">Aggiorna informazioni</button>
     </section>
-    <a class="primary" href="https://www.unifg.it/it/studiare/post-lauream/formazione-insegnanti/tfa-sostegno/tfa-sostegno-aa-2025-2026/tfa-sostegno-aa-2025-2026-idonei-cicli-precedenti" target="_blank" rel="noopener">Apri la pagina ufficiale <span>↗</span></a>
+
+    <a class="primary" href="https://www.unifg.it/it/studiare/post-lauream/formazione-insegnanti/tfa-sostegno/tfa-sostegno-aa-2025-2026/tfa-sostegno-aa-2025-2026-idonei-cicli-precedenti" target="_blank" rel="noopener">
+      Apri la pagina ufficiale UniFG <span>↗</span>
+    </a>
+
     <section class="card">
-      <h2>Ricevi gli avvisi</h2>
-      <p>Le notifiche automatiche arrivano tramite l'app gratuita ntfy. Dopo averla installata su iPhone, iscriviti al tuo canale privato usando il nome segreto configurato durante l'attivazione.</p>
-      <a class="secondary" href="https://apps.apple.com/app/ntfy/id1625396347" target="_blank" rel="noopener">Installa ntfy da App Store ↗</a>
-      <p class="hint">Il canale è privato solo se il nome è casuale e non viene condiviso. Non usare un nome facile da indovinare.</p>
+      <div class="section-title">
+        <h2>Documenti e riferimenti rilevati</h2>
+        <span class="count" id="item-count">—</span>
+      </div>
+      <p class="muted">Collegamenti individuati automaticamente nella pagina ufficiale e pertinenti a calendari, lezioni e orari.</p>
+      <div id="items" class="items"><p class="empty">Caricamento dei collegamenti…</p></div>
     </section>
+
+    <section class="card">
+      <h2>Notifiche sul tuo iPhone</h2>
+      <p class="muted">Gli avvisi vengono inviati tramite ntfy. Non è necessario tenere aperta questa pagina: lascia attive le notifiche di ntfy.</p>
+      <a class="secondary link-button" href="https://apps.apple.com/app/ntfy/id1625396347" target="_blank" rel="noopener">Apri ntfy su App Store ↗</a>
+    </section>
+
     <section class="card">
       <h2>Come funziona</h2>
-      <ul><li>Il sito viene controllato automaticamente più volte al giorno.</li><li>Vengono confrontati i riferimenti ai calendari e ai relativi documenti.</li><li>Ricevi un avviso solo quando viene rilevata una novità.</li></ul>
+      <ul>
+        <li>GitHub controlla la pagina UniFG ogni 6 ore circa.</li>
+        <li>Se cambia un testo o un collegamento pertinente, invia un avviso.</li>
+        <li>Apri sempre il sito ufficiale per verificare il contenuto dell'aggiornamento.</li>
+      </ul>
+      <p class="hint">Il rilevamento segnala possibili aggiornamenti: una modifica non equivale necessariamente alla pubblicazione di un nuovo calendario.</p>
     </section>
     <footer>Strumento indipendente di notifica · Non è un'app ufficiale UniFG.</footer>
   </main>
-  <script src="./app.js"></script>
+  <script src="./app.js?v=2"></script>
   <script>if ('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js');</script>
 </body>
 </html>

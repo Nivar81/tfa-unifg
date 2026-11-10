@@ -1,14 +1,10 @@
 {
-  "digest": "10febe739dbcece803692f2f49c7af9d3def688b05801a1a2abafecb143317b9",
+  "digest": "cbd5c36e70e0af7684823ac16b80d8e6cba26437d4b51da72d3356fb74326007",
   "snapshot": {
     "items": [
       {
         "title": "Elezioni",
         "url": "https://www.unifg.it/it/ateneo/normativa-e-bandi/elezioni"
-      },
-      {
-        "title": "TFA Sostegno a.a. 2025-2026 - Lezioni online",
-        "url": "https://www.unifg.it/it/avvisi/tfa-sostegno-aa-2025-2026-lezioni-online"
       },
       {
         "title": "Attuazione Politica della Qualità della Didattica, della Ricerca e della Terza Missione",
@@ -23,16 +19,20 @@
         "url": "https://www.unifg.it/it/terza-missione/impegno-sociale-e-culturale/formazione-continua-apprendimento-permanente-e-didattica-aperta"
       },
       {
-        "title": "Calendario lezioni dal 30 al 31 ottobre 2026",
-        "url": "https://www.unifg.it/sites/default/files/2026-10/tfa-sostegno-2026-calendario-26ott.pdf"
+        "title": "Scuola dell'infanzia - Calendario lezioni",
+        "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-calendario-infanzia-10nov.pdf"
       },
       {
-        "title": "Calendario lezioni online del 30 ottobre 2026",
-        "url": "https://www.unifg.it/sites/default/files/2026-10/tfa-sostegno-2026-lezioni-online-30ottobre.pdf"
+        "title": "Scuola primaria - Calendario lezioni",
+        "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-calendario-primaria-10nov.pdf"
       },
       {
-        "title": "Calendario lezioni dal 6 all'8 novembre 2026",
-        "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-calendario-02nov.pdf"
+        "title": "Scuola secondaria di primo grado - Calendario lezioni - Idonei cicli precedenti",
+        "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-idonei-calendario-secondaria-1grado.pdf"
+      },
+      {
+        "title": "Scuola secondaria di secondo grado - Calendario lezioni - Idonei cicli precedenti",
+        "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-idonei-calendario-secondaria-2grado.pdf"
       }
     ],
     "text": [
@@ -42,7 +42,6 @@
       "Con riferimento al tirocinio diretto, le relative procedure saranno avviate in prossimità dell’inizio delle attività didattiche. Tutti gli iscritti riceveranno un’apposita comunicazione a mezzo posta elettronica contenente le indicazioni operative, le modalità di svolgimento e gli adempimenti da seguire.",
       "Elezioni",
       "Formazione continua, apprendimento permanente e didattica aperta",
-      "Le attività didattiche avranno inizio venerdì 23 ottobre 2026. Il calendario delle lezioni successive sarà pubblicato nei prossimi giorni.",
       "Ricerca Struttura e normativa Commissione scientifica Comitato etico per la ricerca Struttura di supporto Documentazione Norme di principio, buone pratiche e Integrità nella ricerca Comitato Etico della Ricerca Psicologica Attività di ricerca Valutazione della ricerca Archivio Istituzionale della Ricerca Accordi di ricerca Core facilities Informazioni e opportunità Eventi e iniziative Finanziamenti alla ricerca Finanziamenti nazionali Finanziamenti internazionali Attuazione Politica della Qualità della Didattica, della Ricerca e della Terza Missione PNRR Proposte progettuali Opportunità per la ricerca Finanziamenti di ateneo Dottorati di ricerca Borse per attività di ricerca Assegni di ricerca Contratti di ricerca Incarichi di ricerca Incarichi post-doc Strategia delle risorse umane per la Ricerca (HRS4R) Scholar programs Scopri la Ricerca",
       "Terza missione Strutture e normativa Governance Normativa ministeriale Documentazione Grant office Impegno sociale e culturale Public Engagement Patrimonio storico-artistico e archeologico Formazione continua, apprendimento permanente e didattica aperta Unifg per il sociale Placement Arte e cultura Salute pubblica Convenzioni e Accordi Valorizzare la ricerca Gestione della proprietà intellettuale: Brevetti Attività Conto Terzi Imprenditorialità accademica: Spin off e start up Trasferimento tecnologico e partecipazioni Valorizzazione della Ricerca Rapporti con il territorio Unimpresa Patto Territoriale per il Sistema Pugliese Sostenibilità ambientale Scopri la Terza Missione"
     ]

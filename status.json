@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-11-17T01:05:32.217052+00:00",
-  "last_change": "Modifica rilevata",
+  "checked_at": "2026-11-17T09:14:15.759719+00:00",
+  "last_change": "Rilevata una modifica ai riferimenti del calendario",
   "items": [
     {
       "title": "Elezioni",
@@ -19,19 +19,19 @@
       "url": "https://www.unifg.it/it/terza-missione/impegno-sociale-e-culturale/formazione-continua-apprendimento-permanente-e-didattica-aperta"
     },
     {
-      "title": "Scuola dell'infanzia - Calendario lezioni",
-      "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-calendario-infanzia-12nov.pdf"
+      "title": "Calendario Scuola dell'infanzia (aggiornato 17 novembre)",
+      "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-calendario-infanzia-17nov.pdf"
     },
     {
-      "title": "Scuola primaria - Calendario lezioni",
+      "title": "Calendario Scuola primaria (aggiornato 12 novembre)",
       "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-calendario-primaria-12nov.pdf"
     },
     {
-      "title": "Scuola secondaria di primo grado - Calendario lezioni",
-      "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-idonei-calendario-secondaria-1grado-12nov.pdf"
+      "title": "Calendario Scuola secondaria 1° grado (aggiornato 17 novembre)",
+      "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-idonei-calendario-secondaria-1grado-17nov.pdf"
     },
     {
-      "title": "Scuola secondaria di secondo grado - Calendario lezioni",
+      "title": "Calendario Scuola secondaria 2° grado (aggiornato 12 novembre)",
       "url": "https://www.unifg.it/sites/default/files/2026-11/tfa-sostegno-2026-idonei-calendario-secondaria-2grado-12nov.pdf"
     }
   ]
